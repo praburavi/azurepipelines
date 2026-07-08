@@ -1,0 +1,15 @@
+{
+	"name": "adfdataactivity",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "58ed4495-9595-45c1-9a32-147abd7f6adb",
+		"tenantId": "8affcaee-06f1-498b-b293-d4ab97dfde1c"
+	}
+}
